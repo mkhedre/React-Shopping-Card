@@ -11,7 +11,7 @@
         "id":"id2",
         "title":"product2",
         "imageurl":"/images/headphone.jpg",
-        "desc":"this is product 1",
+        "desc":"this is product 2",
         "prize":30,
         "sizes":["S","M"]
     },

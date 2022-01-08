@@ -1,9 +1,10 @@
 import React from 'react'
 import '../../css/Footer/Footer.css'
-export default function Footer() {
+function Footer() {
     return (
         <footer>
             &copy; Mostafa khedre 2022
         </footer>
     )
 }
+export default Footer

@@ -33,12 +33,3 @@ code {
 main {
   grid-area: main;
 }
-footer {
-  grid-area: footer;
-  background-color: #0000c1;
-  color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 20px;
-}

@@ -4,15 +4,15 @@
         "title":"product1",
         "imageurl":"/images/glasses.jpg",
         "desc":"this is product 1",
-        "prize":30,
-        "sizes":["L","M"]
+        "prize":10,
+        "sizes":["L","M","XL"]
     },
     {
         "id":"id2",
         "title":"product2",
         "imageurl":"/images/headphone.jpg",
         "desc":"this is product 2",
-        "prize":30,
+        "prize":20,
         "sizes":["S","M"]
     },
     {
@@ -21,14 +21,14 @@
         "imageurl":"/images/lab.jpg",
         "desc":"this is lab",
         "prize":30,
-        "sizes":["L","XXL"]
+        "sizes":["L","XXL","S"]
     },
     {
         "id":"id4",
         "title":"watch",
         "imageurl":"/images/watch.jpg",
         "desc":"this is watch",
-        "prize":30,
-        "sizes":["L","XL"]
+        "prize":50,
+        "sizes":["XXL","XL"]
     }
 ]

@@ -36,8 +36,6 @@ main {
 .wrapper {
   padding: 20px;
   display: flex;
-  background-color: darkgoldenrod;
-  justify-content: space-between;
 }
 .product {
   width: 68%;

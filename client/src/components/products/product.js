@@ -27,7 +27,7 @@ function Product(props) {
                     </a>
                     <div className='product-desc'>
                         <p>{item.desc}</p>
-                        <span>{item.prize}</span>
+                        <span>${item.prize}</span>
                     </div>
                     <button>add to card</button>
                 </div>
